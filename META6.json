@@ -2,11 +2,11 @@
     "perl"          : "6",
     "name"          : "Template::Mojo",
     "license"       : "MIT",
-    "version"       : "v0.1",
-    "description"   : "A templating system similar to Perl 5's Mojo::Template",
+    "version"       : "0.1",
+    "description"   : "A templating system similar to Perl's Mojo::Template",
     "build-depends" : [],
     "provides"      : {
-        "Template::Mojo" : "lib/Template/Mojo.pm"
+        "Template::Mojo" : "lib/Template/Mojo.rakumod"
     },
     "authors" : [
         "Tadeusz “tadzik” Sośnierz",
